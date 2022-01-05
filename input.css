@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: linear-gradient(to right, #4b405d,#392a2a);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#btn2{
+    background-image:  linear-gradient(to right, #966d66, #655570);
+}
+
+#btn3{
+    display: flex;
+    background-image:  linear-gradient(to right, #966d66, #655570);
+}
+
+#btn4{
+    background-image:  linear-gradient(to right,#4e455c, #41384d) ;
+}
+
+#image{
+    width: 100%;
+    float: right;
+}
