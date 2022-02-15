@@ -1,5 +1,3 @@
-# Expense-Tracker
+# Create a new database 'register'
 
-# Include tailwind in .html file 
-
-# use postcss method 
+# create a new table 'users'
